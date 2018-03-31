@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icona48.ico</file>
+		<file>iconb48.ico</file>
+    </qresource>
+</RCC>
