@@ -1,4 +1,7 @@
 # Proxy-AutoScript  
 Automatic configuration script.  
-PS:The file ofproxy.pac is from https://github.com/breakwa11/gfw_whitelist  
-Requeast the node.exe file, because of using js code.
+The file ofproxy.pac is from https://github.com/breakwa11/gfw_whitelist  
+  
+# Requeast  
+1.node.js
+2.PyQt5
